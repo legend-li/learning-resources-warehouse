@@ -6,6 +6,8 @@
 
 这个IT资源仓库是用HEXO搭建的，发布内容，完全依照HEXO的官方用法来发布即可。
 
+> HEXO官网：[https://hexo.io/zh-cn/](https://hexo.io/zh-cn/)
+
 ### 如何发布优质的学习资源/文章到仓库中？
 
 1. 先fork这个仓库的代码到自己的github
